@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"GetUserInput","l":"GetSelection()"},{"p":"<Unnamed>","c":"GetUserInput","l":"GetUserInput()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"GetUserInput","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"GetUserInput","l":"ReadIntegerFromUser()"}]
